@@ -1,6 +1,6 @@
 # Smart Expense Tracker — Frontend
 
-A modern, responsive frontend for the Expense Tracker API.
+A modern, responsive expense management application for tracking expenses, budgets, categories, and financial insights.
 
 ## Tech Stack
 
